@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MegaBucks
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MegaBucks\ here.\r\n\r\n\ @KhatiwadaSakusal\ &\ BhattShabit\r\n\ @version\ 1/11/2018\r\n
+comment1.params=
+comment1.target=MegaBucks()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MegaBucks\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ genNums()
+comment3.params=
+comment3.target=java.lang.Integer\ getBonus()
+comment4.params=userNumbers
+comment4.target=boolean\ winCheck(java.util.ArrayList)
+comment5.params=userNumbers
+comment5.target=void\ freqCheck(java.util.ArrayList)
+numComments=6
